@@ -1,0 +1,16 @@
+C:\Users\sasin\Desktop\c#\Flames\Flames\bin\Debug\net6.0-windows\Flames.exe
+C:\Users\sasin\Desktop\c#\Flames\Flames\bin\Debug\net6.0-windows\Flames.deps.json
+C:\Users\sasin\Desktop\c#\Flames\Flames\bin\Debug\net6.0-windows\Flames.runtimeconfig.json
+C:\Users\sasin\Desktop\c#\Flames\Flames\bin\Debug\net6.0-windows\Flames.dll
+C:\Users\sasin\Desktop\c#\Flames\Flames\bin\Debug\net6.0-windows\Flames.pdb
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.Form1.resources
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.csproj.GenerateResource.cache
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.AssemblyInfoInputs.cache
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.AssemblyInfo.cs
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.csproj.CoreCompileInputs.cache
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.dll
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\refint\Flames.dll
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.pdb
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\Flames.genruntimeconfig.cache
+C:\Users\sasin\Desktop\c#\Flames\Flames\obj\Debug\net6.0-windows\ref\Flames.dll
